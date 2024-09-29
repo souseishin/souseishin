@@ -8,7 +8,7 @@ src="https://skillicons.dev/icons?i=kali,apple" />
 </a>
 </p>
 
-- Usually wrie code in C++, sometimes uses Swift and JS
+- Usually write code in C++, sometimes uses Swift and JS
 - I also draw digital art but we don't talk about it here
 - Plays rhythm games(currently on a break excl. ADOFAI)
 - Currently learning how to hack 
