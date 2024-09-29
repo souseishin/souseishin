@@ -7,10 +7,12 @@
 src="https://skillicons.dev/icons?i=kali" />
 </a>
 </p>
+
 - I also draw digital art but we don't talk about it here
 - Currently learning how to hack
 - Chess noob
 - Getting fucked by schoolwork daily
+
 <h3 align="left">Languages I Use:</h3>
 <p align="left">
 <a href="https://skillicons.dev">
