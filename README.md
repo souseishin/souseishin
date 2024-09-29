@@ -13,7 +13,7 @@ src="https://skillicons.dev/icons?i=kali,apple" />
 - Plays rhythm games(currently on a break excl. ADOFAI)
 - Currently learning how to hack 
 - Chess noob
-- Fan of Yorushika
+- Fan of Yorushika ◂Ⓘ▸
 - Getting fucked by schoolwork daily
 
 <h3 align="left">Languages I Use:</h3>
