@@ -12,4 +12,4 @@
 </p>
 
 <h3 align="left">Languages I Use:</h3>
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,swift,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,swift,py)](https://skillicons.dev)
