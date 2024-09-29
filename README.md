@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ruri</h1>
+<h1 align="center">Hey, I'm Ruri(16)</h1>
 <h3 align="center">Canadian-Taiwanese Student/C++ developer</h3>
 <h3 align="center">Kali Linux user</h3>
 
@@ -12,4 +12,4 @@
 </p>
 
 <h3 align="left">Languages I Use:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,swift,python)](https://skillicons.dev)
