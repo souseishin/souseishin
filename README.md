@@ -1,16 +1,19 @@
-<h1 align="center">Hey, I'm Ruri(16)</h1>
+<h1 align="center">Hey, I'm るり(16)</h1>
 <h3 align="center">Canadian-Taiwanese Student/C++ developer</h3>
-<h3 align="center">Kali Linux user</h3>
+<h3 align="center">Kali Linux / MacOS user</h3>
 <p align="center">
 <a href="https://skillicons.dev">
 <img
-src="https://skillicons.dev/icons?i=kali" />
+src="https://skillicons.dev/icons?i=kali,apple" />
 </a>
 </p>
 
+- Usually wrie code in C++, sometimes uses Swift and JS
 - I also draw digital art but we don't talk about it here
-- Currently learning how to hack
+- Plays rhythm games(currently on a break excl. ADOFAI)
+- Currently learning how to hack 
 - Chess noob
+- Fan of Yorushika
 - Getting fucked by schoolwork daily
 
 <h3 align="left">Languages I Use:</h3>
