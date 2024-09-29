@@ -12,4 +12,7 @@
 </p>
 
 <h3 align="left">Languages I Use:</h3>
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,swift,py)](https://skillicons.dev)
+<img
+src="[https://skillicons.dev/icons?i=apple,arch,bash,cpp,css,discord,git,github,gitlab,html,instagram,js,latex,linux,lua,md,neovim,py,stackoverflow,twitter](https://skillicons.dev/icons?i=cpp,js,swift,py)" />
+</a>
+</p>
