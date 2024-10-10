@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm るり(16)</h1>
+<h1 align="center">Hey, I'm るり</h1>
 <h3 align="center">Canadian-Taiwanese Student/C++ developer</h3>
 <h3 align="center">Black Arch / MacOS user</h3>
 <p align="center">
