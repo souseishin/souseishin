@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm るり(16)</h1>
 <h3 align="center">Canadian-Taiwanese Student/C++ developer</h3>
-<h3 align="center">Kali Linux / MacOS user</h3>
+<h3 align="center">Black Arch / MacOS user</h3>
 <p align="center">
 <a href="https://skillicons.dev">
 <img
-src="https://skillicons.dev/icons?i=kali,apple" />
+src="https://skillicons.dev/icons?i=arch,apple" />
 </a>
 </p>
 
