@@ -10,7 +10,7 @@ src="https://skillicons.dev/icons?i=arch,apple" />
 
 - Usually write code in C++, sometimes uses Swift and JS
 - I also draw digital art but we don't talk about it here
-- Plays rhythm games(currently on a break excl. ADOFAI)
+- Plays rhythm games(namely Cytus and ADOFAI)
 - Currently learning how to hack 
 - Chess noob
 - Fan of Yorushika ◂Ⓘ▸
