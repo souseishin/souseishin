@@ -30,5 +30,5 @@ src="https://skillicons.dev/icons?i=cpp,swift,js,py" />
 <a href="https://stackoverflow.com/users/27486313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27486313" height="30" width="40" /></a>
 </p>
 
-- You can contact me via email at **rurinosutajio@gmail.com**
+- You can contact me via email at **souseishin@tutamail.com**
 - I apologize for this crappy self-intro
